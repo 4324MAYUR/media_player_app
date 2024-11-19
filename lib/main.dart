@@ -3,9 +3,7 @@ import 'package:media_player_app/screen/home/provider/home_provider.dart';
 import 'package:media_player_app/utils/routes.dart';
 import 'package:provider/provider.dart';
 
-
-// Add GitHub Repositories
-void main() {
+ void main() {
   runApp(
     MultiProvider(
       providers: [
